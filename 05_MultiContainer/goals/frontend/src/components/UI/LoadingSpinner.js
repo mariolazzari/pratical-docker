@@ -1,10 +1,10 @@
-import React from 'react';
+import React from "react";
 
-import './LoadingSpinner.css';
+import "./LoadingSpinner.css";
 
 function LoadingSpinner() {
   return (
-    <div class='lds-ring'>
+    <div class="lds-ring">
       <div></div>
       <div></div>
       <div></div>
